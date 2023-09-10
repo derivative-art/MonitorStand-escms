@@ -21,8 +21,10 @@ The web service is really only used to help debug the sensors.  Maybe I will add
 1.  [ ] Acquire a power-supply that has a USB output...
 
 
-
+<hr>
+<center>
 <img src="https://derivative-art.github.io/invest_in_futility/images/frizting.png"
      alt="I am too lazy to do this in OrCad, KiCAD, so there is is!"
      width="50%"  width="50%"
      />
+</center>
